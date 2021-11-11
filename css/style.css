@@ -15,16 +15,55 @@ body{
     justify-content: center;
 }
 
+.container {
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #2c3a47;
+    padding: 40px 30px;
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+    animation: animated-gradient 2s linear infinite;
+}
+
 .profile-card{
     width: 400px;
     text-align: center;
     border-radius: 8px;
     overflow: hidden;
+    display: block;
 }
-  
-.card-header{
-    background: #2c3a47;
-    padding: 40px 30px;
+
+.division {
+    width: 2px;
+    height: 500px;
+    background: #2ecc71;
+    margin: 15px;
+}
+
+
+.profile-about {
+    width: 400px;
+}
+
+.title {
+    color: #2ecc71;
+}
+
+.line {
+    top: 0;
+    color: #2ecc71;
+    margin-top: -20px;
+}
+
+.content {
+    font-weight: 300;
+    color: white;
+    margin-top: 15px;
 }
   
 .pic{
