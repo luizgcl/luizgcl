@@ -7,7 +7,7 @@
 }
 
 body{
-    height: 100vh;
+    width:100vw;
     background: url(../img/bg.jpg) no-repeat center;
     background-size: cover;
     display: flex;
@@ -17,18 +17,61 @@ body{
 
 .container {
     text-align: center;
-    border-radius: 8px;
+    border-radius: 10px;
     overflow: hidden;
     background: #2c3a47;
     padding: 40px 30px;
+
+    margin-top: 15px;
 
     display: flex;
     flex-direction: row;
 
     align-items: center;
     justify-content: center;
-    animation: animated-gradient 2s linear infinite;
 }
+
+/* Começo @Media */
+@media (max-width: 500px) {
+
+    body {
+        width: 100vw;
+        background: url(../img/bg.jpg) no-repeat fixed;
+        background-size: cover;
+    }
+
+    .container {
+        flex-direction: column;
+        width: 100%;
+        margin: 10px;
+        padding: 10px 10px;
+    }
+
+    .division {
+        display: none;
+    }
+
+    .profile-card{
+        flex-wrap: wrap;
+        margin: -40px;
+    }
+
+    .card-header {
+        margin:40px;
+    }
+
+    .content{
+        margin:40px;
+        text-align:left;
+    }
+
+    .profile-about {
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+    
+}
+/* Fim Media */
 
 .profile-card{
     width: 400px;
