@@ -111,11 +111,11 @@ body{
   
 .pic{
     display: inline-block;
-    padding: 8px;
+    padding: 6px;
     background: linear-gradient(130deg, #2e8dcc, #2ecc71);
     margin: auto;
     border-radius: 50%;
-    background-size: 200% 200%;
+    background-size: 100% 100%;
     animation: animated-gradient 2s linear infinite;
 }
 
@@ -136,8 +136,8 @@ body{
 
 .pic img{
     display: block;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 45%;
 }
   
