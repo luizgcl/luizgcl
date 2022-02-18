@@ -62,6 +62,10 @@ body{
         margin: -40px;
     }
 
+    .line {
+        margin: 10px;
+    }
+
     .card-header {
         margin:60px;
     }
