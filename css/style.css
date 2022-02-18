@@ -37,6 +37,13 @@ body{
     align-content: center;
 }
 
+.line {
+    margin: 10px;
+    width: 400px;
+    height: 2px;
+    background-color: #2ecc71;
+}
+
 /* Começo @Media */
 @media (max-width: 500px) {
 
@@ -63,7 +70,16 @@ body{
     }
 
     .line {
-        margin: 10px;
+        width: 350px;
+        height: 2px;
+        margin: 20px;
+
+        display: flex;
+
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
     }
 
     .card-header {
@@ -105,13 +121,6 @@ body{
 
 .title {
     color: #2ecc71;
-}
-
-.line {
-    margin: 10px;
-    width: 400px;
-    height: 2px;
-    background-color: #2ecc71;
 }
 
 .content {
