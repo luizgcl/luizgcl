@@ -20,7 +20,7 @@
 </div>
   
 <h2>🛠 Hard Skills</h2>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline-block"><br>
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
