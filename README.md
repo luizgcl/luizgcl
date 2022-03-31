@@ -1,4 +1,4 @@
-### Olá, sou o Luiz Gustavo 👨🏻‍💻
+## Olá, sou o Luiz Gustavo 👨🏻‍💻
 
 <div style="display: inline-block">
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/625078097615650817/958919426139373608/ezgif.com-gif-maker.gif">
