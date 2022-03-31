@@ -1,4 +1,4 @@
-## Olá, sou o Luiz Gustavo 👨🏻‍💻
+## Olá, eu sou o Luiz Gustavo! 👨‍💻
 <div style="display: inline-block">
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/625078097615650817/958919426139373608/ezgif.com-gif-maker.gif">
 <div margin="30px">
@@ -27,6 +27,9 @@
 <img align="center"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
   
 <h2>📲 Redes Sociais</h2>
