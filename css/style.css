@@ -37,6 +37,19 @@ body{
     align-content: center;
 }
 
+.ml-link {
+    text-decoration: none;
+    color: #00A99D;
+}
+
+.ml-link:hover{
+    color: #2cd6cb;
+}
+
+.ml-link:active{
+    color: #218680;
+}
+
 .line {
     margin: 10px;
     width: 400px;
