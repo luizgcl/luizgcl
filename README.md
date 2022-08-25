@@ -7,7 +7,7 @@
   - 💼 Suporte técnico em [MadeLife](https://madelife.com.br/)
   - 👨‍💻 Desenvolvedor **Full Stack**
   - 📚 Aprendendo **Angular** e **Laravel**
-  - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+  - 🎓 Cursando **Sistemas para Internet**
   
 </div>
 </div>
