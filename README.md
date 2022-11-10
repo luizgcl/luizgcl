@@ -4,7 +4,7 @@
 <div margin="30px">
 <h2>📑 Informações</h2>
   
-  - 💼 Suporte técnico em [MadeLife](https://madelife.com.br/)
+  - 💼 Desenvolvedor/Suporte técnico em [MadeLife](https://madelife.com.br/)
   - 👨‍💻 Desenvolvedor **Full Stack**
   - 📚 Aprendendo **Angular** e **Laravel**
   - 🎓 Cursando **Sistemas para Internet**
